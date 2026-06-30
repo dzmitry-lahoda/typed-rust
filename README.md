@@ -21,6 +21,10 @@ https://github.com/elastio/bon
 
 https://docs.rs/itertools/latest/itertools/index.html
 
+https://github.com/jhpratt/deranged
+
+https://github.com/danlehmann/arbitrary-int
+
 ## Examples
 
 https://github.com/paritytech/polkadot-sdk
