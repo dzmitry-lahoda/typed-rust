@@ -1,6 +1,11 @@
 # Overview
 
-Using rust compiler to write correct code.
+Using rust compiler and inline extensions to write correct code.
+
+Ready to use tools and method.
+
+Future proof Rust on nighlty or in roadmap or rfs. 
+Inlined with existing stable crate or method if will replace or improve it.
 
 ## Patterns and guidelines
 
