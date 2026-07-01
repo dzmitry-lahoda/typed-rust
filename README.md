@@ -7,6 +7,9 @@ Ready to use tools and method.
 Future proof Rust on nighlty or in roadmap or rfs. 
 Inlined with existing stable crate or method if will replace or improve it.
 
+dsicourages runtime string usage,
+encourages const compile time
+
 ## Patterns and guidelines
 
 https://rust-lang.github.io/api-guidelines/type-safety.html
@@ -19,7 +22,13 @@ https://github.com/contextgeneric/cgp
 
 https://github.com/elastio/bon
 
-## Iterators
+### Const
+
+konst
+
+hex-literal
+
+### Iterators
 
 https://docs.rs/itertools/latest/itertools/index.html
 
@@ -34,6 +43,14 @@ https://github.com/tdelmas/typed_floats
 https://github.com/jhpratt/deranged
 
 https://github.com/reem/rust-ordered-float
+
+arb flags
+
+### APIs
+
+clap
+
+aide types path
 
 ### Errors
 
