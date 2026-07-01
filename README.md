@@ -13,13 +13,17 @@ https://rust-lang.github.io/api-guidelines/type-safety.html
 
 ## Crates
 
-https://github.com/contextgeneric/cgp
-
 https://github.com/rodrimati1992/typewit/
+
+https://github.com/contextgeneric/cgp
 
 https://github.com/elastio/bon
 
+## Iterators
+
 https://docs.rs/itertools/latest/itertools/index.html
+
+https://github.com/libsugar/tuplers
 
 ### Numbers
 
@@ -30,6 +34,10 @@ https://github.com/tdelmas/typed_floats
 https://github.com/jhpratt/deranged
 
 https://github.com/reem/rust-ordered-float
+
+### Errors
+
+https://crates.io/crates/static_assertions_next
 
 ## Examples
 
