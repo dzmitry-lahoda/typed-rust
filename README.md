@@ -21,9 +21,15 @@ https://github.com/elastio/bon
 
 https://docs.rs/itertools/latest/itertools/index.html
 
-https://github.com/jhpratt/deranged
+### Numbers
 
 https://github.com/danlehmann/arbitrary-int
+
+https://github.com/tdelmas/typed_floats
+
+https://github.com/jhpratt/deranged
+
+https://github.com/reem/rust-ordered-float
 
 ## Examples
 
